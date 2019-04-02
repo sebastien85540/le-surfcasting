@@ -1,4 +1,4 @@
-baseurl = "https://le-surfcasting.netlify.com/"
+baseurl = "https://le-surfcasting.netlify.com"
 title = "Le surfcasting"
 theme = "hugo-nederburg-theme"
 languageCode = "fr-fr"
