@@ -1,0 +1,25 @@
+---
+label: la foret
+hide_body: false
+fields:
+- type: file
+  name: image
+  label: image
+- type: boolean
+  name: showonlyimage
+  label: showonlyimage
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: text
+  name: writer
+  label: writer
+- type: list
+  name: categories
+  label: categories
+- type: number
+  name: weight
+  label: weight
