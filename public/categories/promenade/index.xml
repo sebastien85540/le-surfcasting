@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>promenade on Le surfcasting</title>
+    <link>https://example.org/categories/promenade/</link>
+    <description>Recent content in promenade on Le surfcasting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 31 Mar 2019 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.org/categories/promenade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>promenade en forêt</title>
+      <link>https://example.org/post/promenade-en-for%C3%AAt/</link>
+      <pubDate>Sun, 31 Mar 2019 22:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/post/promenade-en-for%C3%AAt/</guid>
+      <description>se pgkiznn vgningbnvpz vbnppçuhhpçvhbbvahhh
+koçkj ,jç)àjujk;,u)u,ji_ç</description>
+    </item>
+    
+  </channel>
+</rss>
