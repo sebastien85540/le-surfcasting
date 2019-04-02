@@ -32,4 +32,5 @@ fields:
   label: weight
   default: '1'
 pages:
+- content/post/promenade-en-forêt-1.md
 - content/post/promenade-en-forêt.md
