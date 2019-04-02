@@ -31,3 +31,5 @@ fields:
   name: weight
   label: weight
   default: '1'
+pages:
+- content/post/promenade-en-forêt.md
