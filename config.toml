@@ -25,7 +25,7 @@ paginate = 5 #frontpage pagination
   slogan = "A fast &amp; secure theme"
   description = "Describe your website" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
-  author = "Göran Svensson"
+  author = "sebastien REYNAUD"
   authorLink = "https://appernetic.io/"
   bio = [
     "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
@@ -69,14 +69,14 @@ paginate = 5 #frontpage pagination
 
 # this will also be in author bio if there is no writer.
   [params.social]
-  facebook      = "full Social profile url in facebook"
+  facebook      = "https://www.facebook.com/sebastien.reynaud.9279"
   googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
+  email         = "sebastien.reynaud123@orange.fr"
+  twitter       = "https://twitter.com/reyseb85?s=07"
+  linkedin      = "https://www.linkedin.com/in/sebastien-reynaud-47838b160"
   stackoverflow = "full profile url in stackoverflow"
   instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  github        = "https://github.com/sebastien85540"
   pinterest     = "full profile url in pinterest"
   rss           = true
 
