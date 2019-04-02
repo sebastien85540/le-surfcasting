@@ -1,6 +1,7 @@
 ---
 label: la foret
 hide_body: false
+display_field: image
 fields:
 - type: file
   name: image
