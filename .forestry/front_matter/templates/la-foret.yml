@@ -5,21 +5,28 @@ fields:
 - type: file
   name: image
   label: image
+  default: "/uploads/fall-1072821_640.jpg"
 - type: boolean
   name: showonlyimage
   label: showonlyimage
 - type: datetime
   name: date
   label: date
+  default: 2019-03-31 22:00:00 +0000
 - type: text
   name: title
   label: title
+  default: promenade en forêt
 - type: text
   name: writer
   label: writer
+  default: 'quel bonheur de se promener en forêt '
 - type: list
   name: categories
   label: categories
+  default:
+  - promenade
 - type: number
   name: weight
   label: weight
+  default: '1'
