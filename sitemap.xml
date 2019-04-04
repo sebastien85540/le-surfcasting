@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://le-surfcasting.netlify.com/post/la-plage-1/</loc>
+    <lastmod>2019-04-04T12:45:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://le-surfcasting.netlify.com/post/promenade-en-for%C3%AAt-1/</loc>
     <lastmod>2019-03-31T22:00:00+00:00</lastmod>
   </url>
@@ -84,13 +89,13 @@
   
   <url>
     <loc>https://le-surfcasting.netlify.com/</loc>
-    <lastmod>2019-03-31T22:00:00+00:00</lastmod>
+    <lastmod>2019-04-04T12:45:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://le-surfcasting.netlify.com/post/</loc>
-    <lastmod>2019-03-31T22:00:00+00:00</lastmod>
+    <lastmod>2019-04-04T12:45:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -106,8 +111,20 @@
   </url>
   
   <url>
+    <loc>https://le-surfcasting.netlify.com/categories/coucher-/</loc>
+    <lastmod>2019-04-04T12:45:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://le-surfcasting.netlify.com/categories/design/</loc>
     <lastmod>2017-02-14T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://le-surfcasting.netlify.com/categories/mer/</loc>
+    <lastmod>2019-04-04T12:45:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

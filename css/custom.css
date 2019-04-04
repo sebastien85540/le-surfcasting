@@ -68,7 +68,7 @@ body {
   font-family: "raleway", sans-serif;
   line-height: 1.5;
   color: #4d4d4d;
-  background: #38312f;
+  background: #f13805;
   -webkit-font-smoothing: antialiased;
   word-wrap: break-word;
   -ms-word-wrap: break-word;
@@ -242,26 +242,26 @@ th {
   max-width: 100%;
   max-width: calc(100% - 48px);
 }
-.alignright img,
+.alignright img,La
 .alignleft img,
 .aligncenter img,
 .alignnone img,
 .size-auto img,
 .size-full img,
 .size-large img,
-.size-medium img,
-.size-thumbnail img {
-  max-width: 100%;
+.size-medium img,La
+.size-thumbnail iLa{
+  max-width: 100%La
 }
 
 .alignleft {
   float: left;
-  margin: 0 1.5em 1.5em 0;
+  margin: 0 1.5emLa
 }
 
 .alignright {
   float: right;
-  margin: 0 0 1.5em 1.5em;
+  margin: 0 0 1.5La
 }
 
 .aligncenter {
