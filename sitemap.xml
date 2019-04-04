@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://le-surfcasting.netlify.com/post/la-p%C3%AAche/</loc>
+    <lastmod>2019-03-31T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://le-surfcasting.netlify.com/post/promenade-en-for%C3%AAt-1/</loc>
     <lastmod>2019-03-31T22:00:00+00:00</lastmod>
   </url>
@@ -131,6 +136,12 @@
   
   <url>
     <loc>https://le-surfcasting.netlify.com/categories/promenade/</loc>
+    <lastmod>2019-03-31T22:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://le-surfcasting.netlify.com/categories/p%C3%AAche/</loc>
     <lastmod>2019-03-31T22:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
